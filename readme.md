@@ -1,4 +1,4 @@
-To run converter:
+To run converter (api folder) in terminal:
 > virtualenv venv
 
 > venv/bin/activate
@@ -7,6 +7,6 @@ To run converter:
 
 > convert AMOUNT CURRENCY
 
-To test:
+To test converter:
 > python test.py
 
